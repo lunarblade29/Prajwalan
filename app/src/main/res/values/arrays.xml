@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ld_activityScreenTitles">
+        <item>Sponsors</item>
+        <item>Songs &amp; Videos</item>
+        <item>Photograhy</item>
+        <item>Reach us</item>
+        <item />
+        <item>Log Out</item>
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/ic_money</item>
+        <item>@drawable/ic_gramophone</item>
+        <item>@drawable/ic_camera</item>
+        <item>@drawable/ic_opinion</item>
+        <item>0</item>
+        <item>@drawable/ic_logout</item>
+    </array>
+
+</resources>
